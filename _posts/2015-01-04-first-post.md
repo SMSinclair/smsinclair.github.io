@@ -1,7 +1,12 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: Did Iron Man kill romantic dramedy?
+image: /img/aavsrd.png
 ---
 
-This is my first post, how exciting!
+I plotted the combined box office revenue of every movie in my dataset categorized as “Comedy, Drama, Romance.” There were movies between 1960 and 1990 that were hugely successful at the box office, the genre thrived from the early 90’s to 2009, and then its box office revenue suddenly plummeted.
+
+I set out to find an explanation. Since there wasn’t an overall drop in revenue, my theory was that studios shifted their focus to big-budget blockbusters. To find out I plotted the peak and decline of the romantic dramedy against the box office revenue of action-adventure movies with sci-fi or fantasy elements from 1990 to 2016.There’s a clear correlation. Box office revenue for romantic dramedies plummets as the revenue for the action-adventure blockbusters soars. But is that just a coincidence? 
+
+Action-adventure genre films produce 2-6x returns on investment more consistently than romantic dramedies and have a median budget of $158,950,700. So, one explanation for the decline of the romantic dramedy could be that studios have shifted their focus to superheroes and space operas because they’ve honed a formula to reliably make large profits with those films.
+
